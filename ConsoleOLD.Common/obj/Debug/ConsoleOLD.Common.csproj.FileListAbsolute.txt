@@ -1,0 +1,5 @@
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.Common\bin\Debug\ConsoleOLD.Common.exe.config
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.Common\bin\Debug\ConsoleOLD.Common.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.Common\bin\Debug\ConsoleOLD.Common.pdb
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.Common\obj\Debug\ConsoleOLD.Common.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.Common\obj\Debug\ConsoleOLD.Common.pdb

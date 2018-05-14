@@ -1,0 +1,12 @@
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.BussinessLogic.exe.config
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.BussinessLogic.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.BussinessLogic.pdb
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.Common.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.DataAccess.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.Common.pdb
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.Common.exe.config
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.DataAccess.pdb
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\bin\Debug\ConsoleOLD.DataAccess.exe.config
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\obj\Debug\ConsoleOLD.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\obj\Debug\ConsoleOLD.BussinessLogic.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.BussinessLogic\obj\Debug\ConsoleOLD.BussinessLogic.pdb

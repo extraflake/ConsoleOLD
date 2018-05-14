@@ -1,0 +1,5 @@
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.DataAccess\bin\Debug\ConsoleOLD.DataAccess.exe.config
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.DataAccess\bin\Debug\ConsoleOLD.DataAccess.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.DataAccess\bin\Debug\ConsoleOLD.DataAccess.pdb
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.DataAccess\obj\Debug\ConsoleOLD.DataAccess.exe
+C:\Users\Flake\documents\visual studio 2017\Projects\ConsoleOLD\ConsoleOLD.DataAccess\obj\Debug\ConsoleOLD.DataAccess.pdb
